@@ -1,0 +1,7 @@
+clutter_clearing/PDFs
+clutter_clearing/.docx
+clutter_clearing/Images
+clutter_clearing/Texts
+*.pdf
+*.csv
+*.txt
