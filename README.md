@@ -34,17 +34,6 @@ Welcome to my collection of random Python projects! In this repository, I have e
 - Parse and validate arguments
 - Display help messages
 
-### 4. Expense Manager
-**Libraries Used:** `streamlit`, `plotly`, `pandas`
-
-**Description:** This project is an expense manager that allows users to track and visualize their expenses. It utilizes `Streamlit` for the user interface, `Plotly` for data visualization, and `Pandas` for data manipulation and analysis.
-
-**Features:**
-- Add, edit, and delete expense entries
-- Categorize expenses
-- Visualize expenses with interactive charts and graphs
-- Export data to CSV format
-
 ### 5. Snake, Water, Gun Game
 **Libraries Used:** `os`, `random`
 
